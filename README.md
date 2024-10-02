@@ -1,6 +1,6 @@
 <div>
 
-# 👋 Hi there, I am <a href="https://sawan.dev">SAWAN MAKWANA!</a> <img align='right' src="/.github/cat.gif" height="" width="300" alt="coding cat">
+# 👋 Hi there, I am <a href="https://sawan.dev">SAWAN MAKWANA!</a> <img align='right' src="https://github.com/SawanMakwana/SawanMakwana/blob/main/github/cat.gif" height="" width="300" alt="coding cat">
 
 </div>
 
@@ -27,22 +27,22 @@
 <table>
 	<tr align="center">
 		<td>
-			<img src="/.github/icons/python.svg" width="60"/>
+			<img src="https://github.com/SawanMakwana/SawanMakwana/blob/main/github/icons/python.svg" width="60"/>
 		</td>
 		<td>
-			<img src="/.github/icons/ignition.png" width="60"/>
+			<img src="https://github.com/SawanMakwana/SawanMakwana/blob/main/github/icons/ignition.png" width="60"/>
 		</td>
 		<td>
-			<img src="/.github/icons/iot.png" width="60"/>
+			<img src="https://github.com/SawanMakwana/SawanMakwana/blob/main/github/icons/iot.png" width="60"/>
 		</td>
 		<td>
-			<img src="/.github/icons/system_design.svg" width="60"/>
+			<img src="https://github.com/SawanMakwana/SawanMakwana/blob/main/github/icons/system_design.svg" width="60"/>
 		</td>
 		<td>
-			<img src="/.github/icons/sql.svg" width="60"/>
+			<img src="https://github.com/SawanMakwana/SawanMakwana/blob/main/github/icons/sql.svg" width="60"/>
 		</td>
 		<td>
-			<img src="/.github/icons/postgresql.svg" width="60"/>
+			<img src="https://github.com/SawanMakwana/SawanMakwana/blob/main/github/icons/postgresql.svg" width="60"/>
 		</td>
 	</tr>
 	<tr align="center">
@@ -57,22 +57,22 @@
 <table>
 	<tr align="center">
 		<td>
-			<img src="/.github/icons/kafka.svg" width="60"/>
+			<img src="https://github.com/SawanMakwana/SawanMakwana/blob/main/github/icons/kafka.svg" width="60"/>
 		</td>
 		<td>
-			<img src="/.github/icons/grafana.svg" width="60"/>
+			<img src="https://github.com/SawanMakwana/SawanMakwana/blob/main/github/icons/grafana.svg" width="60"/>
 		</td>
 		<td>
-			<img src="/.github/icons/powerbi.svg" width="60"/>
+			<img src="https://github.com/SawanMakwana/SawanMakwana/blob/main/github/icons/powerbi.svg" width="60"/>
 		</td>
 		<td>
-			<img src="/.github/icons/emqx.svg" width="60"/>
+			<img src="https://github.com/SawanMakwana/SawanMakwana/blob/main/github/icons/emqx.svg" width="60"/>
 		</td>
 		<td>
-			<img src="/.github/icons/kepware.svg" width="60"/>
+			<img src="https://github.com/SawanMakwana/SawanMakwana/blob/main/github/icons/kepware.svg" width="60"/>
 		</td>
 		<td>
-			<img src="/.github/icons/html.svg" width="60"/>
+			<img src="https://github.com/SawanMakwana/SawanMakwana/blob/main/github/icons/html.svg" width="60"/>
 		</td>
 	</tr>
 	<tr align="center">
@@ -87,7 +87,7 @@
 <table>
 	<tr align="center">
 		<td>
-			<img src="/.github/icons/css.svg" width="60"/>
+			<img src="https://github.com/SawanMakwana/SawanMakwana/blob/main/github/icons/css.svg" width="60"/>
 		</td>
 	</tr>
 	<tr align="center">
@@ -97,13 +97,13 @@
 
 ---
 
-## <img src="/.github/code.gif" width="32" align="left"> See my projects - [sawan.dev/projects](https://sawan.dev/projects)
+## <img src="https://github.com/SawanMakwana/SawanMakwana/blob/main/github/code.gif" width="32" align="left"> See my projects - [sawan.dev/projects](https://sawan.dev/projects)
 
-## <img src="/.github/community.gif" width="48" align="left">&nbsp;&nbsp;Connect with me
+## <img src="https://github.com/SawanMakwana/SawanMakwana/blob/main/github/community.gif" width="48" align="left">&nbsp;&nbsp;Connect with me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/sawanmakwana/"><img src="/.github/icons/linkedin.svg" width="48"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:sawan@example.com"><img src="/.github/icons/email.svg" width="48"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://twitter.com/sawanmakwana"><img src="/.github/icons/twitter.svg" width="48"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://discord.gg/az7Au3ZDGW"><img src="/.github/icons/discord.svg" width="54"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/sawanmakwana/"><img src="https://github.com/SawanMakwana/SawanMakwana/blob/main/github/icons/linkedin.svg" width="48"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:sawan@example.com"><img src="https://github.com/SawanMakwana/SawanMakwana/blob/main/github/icons/email.svg" width="48"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/sawanmakwana"><img src="https://github.com/SawanMakwana/SawanMakwana/blob/main/github/icons/twitter.svg" width="48"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://discord.gg/az7Au3ZDGW"><img src="https://github.com/SawanMakwana/SawanMakwana/blob/main/github/icons/discord.svg" width="54"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
